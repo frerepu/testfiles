@@ -1,0 +1,40 @@
+fc,unitid,address,quantity,topic,format,model,unit
+3,1,2699,4,Active Energy Delivered (Into Load),float32,pm5000,kWh
+3,1,2701,4,Active Energy Received (Out of Load),float32,pm5000,kWh
+3,1,2703,4,Active Energy Delivered + Received,float32,pm5000,kWh
+3,1,2705,4,Active Energy Delivered- Received,float32,pm5000,kWh
+3,1,2707,4,Reactive Energy Delivered,float32,pm5000,kVARh
+3,1,2709,4,Reactive Energy Received,float32,pm5000,kVARh
+3,1,2711,4,Reactive Energy Delivered + Received,float32,pm5000,kVARh
+3,1,2713,4,Reactive Energy Delivered - Received,float32,pm5000,kVARh
+3,1,2715,4,Apparent Energy Delivered,float32,pm5000,kVAh
+3,1,2717,4,Apparent Energy Received,float32,pm5000,kVAh
+3,1,2719,4,Apparent Energy Delivered + Received,float32,pm5000,kVAh
+3,1,2721,4,Apparent Energy Delivered - Received,float32,pm5000,kVAh
+3,1,2999,4,Current A,float32,pm5000,A
+3,1,3001,4,Current B,float32,pm5000,A
+3,1,3003,4,Current C,float32,pm5000,A
+3,1,3005,4,Current N,float32,pm5000,A
+3,1,3007,4,Current G,float32,pm5000,A
+3,1,3009,4,Current Avg,float32,pm5000,A
+3,1,3019,4,Voltage A-B,float32,pm5000,V
+3,1,3021,4,Voltage B-C,float32,pm5000,V
+3,1,3023,4,Voltage C-A,float32,pm5000,V
+3,1,3025,4,Voltage L-L Avg,float32,pm5000,V
+3,1,3027,4,Voltage A-N,float32,pm5000,V
+3,1,3029,4,Voltage B-N,float32,pm5000,V
+3,1,3031,4,Voltage C-N,float32,pm5000,V
+3,1,3033,4,Voltage N-G ,float32,pm5000,V
+3,1,3035,4,Voltage L-N Avg,float32,pm5000,V
+3,1,3053,4,Active Power A,float32,pm5000,kW
+3,1,3055,4,Active Power B,float32,pm5000,kW
+3,1,3057,4,Active Power C,float32,pm5000,kW
+3,1,3059,4,Active Power Total,float32,pm5000,kW
+3,1,3061,4,Reactive Power A,float32,pm5000,kVAR
+3,1,3063,4,Reactive Power B,float32,pm5000,kVAR
+3,1,3065,4,Reactive Power C,float32,pm5000,kVAR
+3,1,3067,4,Reactive Power Total,float32,pm5000,kVAR
+3,1,3069,4,Apparent Power A,float32,pm5000,kVA
+3,1,3071,4,Apparent Power B,float32,pm5000,kVA
+3,1,3073,4,Apparent Power C,float32,pm5000,kVA
+3,1,3075,4,Apparent Power Total,float32,pm5000,kVA
